@@ -14,3 +14,4 @@ else:
     final_amount = total * (1.00 + (tip / 100)) / group_size
 
 print(f"Each person should pay: {final_amount}")
+
